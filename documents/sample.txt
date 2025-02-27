@@ -1,0 +1,10 @@
+This is a sample document that demonstrates how the AI Assistant can reference external information.
+
+You can replace this with your own documents such as:
+- Product information
+- FAQ content
+- Educational materials
+- Research data
+- Company policies
+
+Any text, PDF, or Word documents placed in the documents folder will be read by the assistant and used to inform its responses.
