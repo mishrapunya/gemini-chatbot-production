@@ -1,0 +1,6 @@
+{
+  "bot_name": "AI Assistant",
+  "temperature": 0.7,
+  "model": "gemini-1.5-pro",
+  "enable_logging": false
+}
